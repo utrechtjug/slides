@@ -4,6 +4,7 @@ Here you can find all the presentations given at Utrecht JUG in chronological or
 
 | Date | Event | Presentation | Speaker |
 |------|-------|--------------|---------|
+| 01/17/2024 | [Boosting Developer Effectiveness & Introduction to Vector Databases](https://www.meetup.com/utrecht-java-user-group/events/297881366/)| [Boosting Developer Effectiveness with a Java platform team](https://www.slideshare.net/slideshows/boost-developer-effectiveness-with-a-java-platform-team-utrecht-jug/265507275) | [Rick Ossendrijver](https://www.linkedin.com/in/rick-ossendrijver/) |
 | 08/11/2023 | [Java™ 21. What's new and noteworthy?](https://www.meetup.com/utrecht-java-user-group/events/291485763/)| [Java™ 21. What's new and noteworthy?](https://bit.ly/DDJ21-UtrechtJUG-slides) | [Piotr Przybyl](https://www.linkedin.com/in/piotrprzybyl/) |
 | 19/04/2022 | [Modular microservice test projects & Survival Guide Java Architects in Cloud Era](https://www.meetup.com/Utrecht-Java-User-Group/events/284755492/)| [How to create modular microservice test projects](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [Elias Nogueira](https://www.linkedin.com/in/eliasnogueira/) |
 | 02/11/2021 | [Getting the Most from Java & JReleaser; Releasing at the speed of light](https://www.meetup.com/Utrecht-Java-User-Group/events/281341541/)| [Getting the Most from Modern Java](https://www.slideshare.net/SimonRitter/getting-the-most-from-modern-java.) | [Simon Ritter](https://twitter.com/speakjava) |
